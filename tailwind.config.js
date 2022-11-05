@@ -26,6 +26,8 @@ module.exports = {
         370: "370px",
         420: "420px",
         510: "510px",
+        580: "580px",
+        575: "575px",
         600: "600px",
         650: "650px",
         685: "685px",
@@ -34,6 +36,7 @@ module.exports = {
       },
       minWidth: {
         210: "210px",
+        190: "190px",
         350: "350px",
         620: "620px",
       },
@@ -55,8 +58,6 @@ module.exports = {
         cartBg: "#282a2c",
         cartItem: "#2e3033",
         cartTotal: "#343739",
-        cardOverlay: "rgba(256,256,256,0.4)"
-        
       },
     },
   },
