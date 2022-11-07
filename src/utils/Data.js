@@ -44,3 +44,44 @@ export const heroData = [
     },
     
 ];
+
+export const categories = 
+[
+ {
+    id:1,
+    name:"Oxford",
+    urlParaName:"oxford",
+},
+
+ {
+    id:2,
+    name:"Albakiyo",
+    urlParaName:"albakiyo",
+},
+
+ {
+    id:3,
+    name:"Afaq",
+    urlParaName:"afaq",
+},
+
+ {
+    id:4,
+    name:"Paramount",
+    urlParaName:"paramount",
+},
+
+ {
+    id:5,
+    name:"A-z",
+    urlParaName:"az",
+},
+
+ {
+    id:6,
+    name:"Good-Kids",
+    urlParaName:"good-kids",
+},
+
+
+];
